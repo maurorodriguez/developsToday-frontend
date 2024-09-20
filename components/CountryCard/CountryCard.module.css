@@ -1,0 +1,22 @@
+#card{
+    border: 2px solid rgb(87, 85, 245);
+    border-radius: 20px;
+    width: 100%;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px 10px;
+}
+
+#card > a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#name{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
